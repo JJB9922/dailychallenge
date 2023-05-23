@@ -8,4 +8,3 @@ while step < n:
     x = x + step
 
 print(f"Sum is {x}")
-
