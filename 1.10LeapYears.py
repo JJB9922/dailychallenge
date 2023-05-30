@@ -1,8 +1,8 @@
 #Write a program that prints the next 20 leap years
 
 year = int(input("What year is it?\n"))
-leapYear = year
 counter = 1
+
 print("Next 20 leap years:\n")
 
 while counter < 21:
